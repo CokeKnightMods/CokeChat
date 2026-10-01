@@ -1,0 +1,58 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/sob.png",
+      "ascent": 8
+    },
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/wilted_rose.png",
+      "ascent": 8
+    },
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/heart.png",
+      "ascent": 8
+    },
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/fire.png",
+      "ascent": 8
+    },
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/skull.png",
+      "ascent": 8
+    },
+    {
+      "type": "bitmap",
+      "chars": [
+        ""
+      ],
+      "height": 14,
+      "file": "cokechat:emojis/joy.png",
+      "ascent": 8
+    }
+  ]
+}

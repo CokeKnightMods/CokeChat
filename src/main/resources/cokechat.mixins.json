@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.cokechat.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": ["ChatComponentMixin", "ChatGraphicsMixin", "ChatScreenMixin", "ChatInputMixin", "CommandSuggestionsMixin", "SuggestionsListAccess", "PeekHudMixin", "PeekScreenMixin", "PeekMouseMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

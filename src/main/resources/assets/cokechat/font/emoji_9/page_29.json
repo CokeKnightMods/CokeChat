@@ -1,0 +1,499 @@
+{
+  "providers": [
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1ef.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f0.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f1.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f2.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f3.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f4.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f7.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f8.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1f9.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1fb.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1fd.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1fe.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f8-1f1ff.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1e6.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1e8.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1e9.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1eb.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1ec.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1ed.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1ef.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f0.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f1.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f2.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f3.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f4.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f7.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1f9.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1fb.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1fc.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1f9-1f1ff.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1e6.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1ec.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1f2.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1f3.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1f8.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1fe.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fa-1f1ff.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1e6.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1e8.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1ea.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1ec.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1ee.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1f3.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fb-1f1fa.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fc-1f1eb.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fc-1f1f8.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fd-1f1f0.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fe-1f1ea.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1fe-1f1f9.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1ff-1f1e6.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1ff-1f1f2.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f1ff-1f1fc.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png",
+      "type": "bitmap"
+    },
+    {
+      "chars": [
+        ""
+      ],
+      "height": 9,
+      "ascent": 8,
+      "file": "cokechat:emojis/standard/1f3f4-e0067-e0062-e0077-e006c-e0073-e007f.png",
+      "type": "bitmap"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+logs/
+verification/
+*.log
+crash-reports/
+.env
+.env.*
+!.env.example
+*.key
+*.pem

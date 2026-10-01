@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "cokechat",
+  "version": "${version}",
+  "name": "CokeChat",
+  "icon": "assets/cokechat/icon.png",
+  "description": "Local-only chat appearance, history, visual words and emoji tools.",
+  "environment": "client",
+  "entrypoints": { "client": ["de.cokechat.CokeChatClient"] },
+  "mixins": ["cokechat.mixins.json"],
+  "license": "MIT",
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "26.1.2", "java": ">=25", "fabric-api-base": "*", "fabric-lifecycle-events-v1": "*", "fabric-key-mapping-api-v1": "*" }
+}
+
