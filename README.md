@@ -2,7 +2,7 @@
 
 Lokale Chat-Mod für **Minecraft Java 26.1.2**, **Fabric Loader 0.19.5+** und **Java 25**.
 
-[Mod herunterladen](https://github.com/leonstrohschein-crypto/CokeChat/releases/latest) · [Patchnotes](UPDATE-1.5.0.md) · [GUI und Bedienung](GUI-REDESIGN.md)
+[Mod herunterladen](https://github.com/CokeKnightMods/CokeChat/releases/latest) · [Patchnotes](UPDATE-1.5.0.md) · [GUI und Bedienung](GUI-REDESIGN.md)
 
 ![CokeChat Einstellungen](docs/images/settings.png)
 
